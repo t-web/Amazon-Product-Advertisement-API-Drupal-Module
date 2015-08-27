@@ -6,3 +6,4 @@
 * [Developers](development/development.md)
 * [Components](components/what-are-components.md)
   * [Build New Components](components/how-to-build-components.md)
+  * [Build New Components](components/how-to-build)
