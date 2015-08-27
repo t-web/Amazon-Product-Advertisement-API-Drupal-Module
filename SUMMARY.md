@@ -5,4 +5,4 @@
 * [Designer](design/design.md)
 * [Developers](development/development.md)
 * [Components](components/what-are-components.md)
-* [How To Build Components](components/what-are-components.md)
+* [How To Build Components](components/how-to-build-components.md)
