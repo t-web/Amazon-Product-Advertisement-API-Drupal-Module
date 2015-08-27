@@ -2,5 +2,5 @@ The Amazon Product Advertisement API Drupal Module Book is an Open Source book f
 
 **Project**: [drupal.org/project/amazon](drupal.org/project/amazon)
 
-**Drupal Documentation**: [drupal.org/project/amazon](drupal.org/project/amazon)
+**Drupal Documentation**: [drupal.org/project/amazon](drupal.org/project/amazon/documentation)
 
