@@ -4,3 +4,4 @@
 * [Setup New/Existing Accounts](amazon/accounts.md)
 * [Designer](design/design.md)
 * [Developers](development/development.md)
+* [Components](components/what-are-components.md)
