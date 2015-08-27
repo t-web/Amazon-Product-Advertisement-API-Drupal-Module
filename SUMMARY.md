@@ -10,4 +10,6 @@
   * [Become A Development Contributor](design/design-contributor.md)
 * [Components](components/what-are-components.md)
   * [The Component Philosophy](components/how-to-build.md)
-  * [Build New Components](components/how-to-build-components.md)
+  * [Use Components](components/use-components.md)
+  * [Build Components](components/build-components.md)
+  * [Deploy Components](components/deploy-components.md)
