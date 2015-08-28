@@ -25,15 +25,18 @@ As is stands the Amazon API Module Suite is suitable for creating basic "affilia
 
 *“We can't just show value, we have to create it”* **The Internet changed marketing... and it's a good thing.**
 
-####Media Rich Content 
+####Open Source & The Agile Doacracy. 
 
-The future of complex, yet scalable content and commerce is ripe for innovation. for  "Components! We need more components!" is the new rally echoing the Great Halls of Drupazon
+The future of complex, yet scalable high-quality content and on-demand commerce is open for innovation. I'm excited! Are you? 
 
-What's that does mean for you?
+We need innovative designers, maticulous developers, savvy writers, hungry entreupeuners, persistant project managers and everyone in between.
 
-Let's be real you practically need 5+ years experience and cousins with a core contributor to get a
+It starts with the "Components! Modular and highly-responsive components."
 
-Do you like designing cutting edge web components? What about developing creative
+####The Foundation - Community Friendly Components
+A single person can build a boat, but only a community can build a bridge.Innovation happens when committed people with diverse backgrounds share and integrate meaningful contributions.
+
+Which is why 
 
 To jump-start the Amazon Product Advertisement API 
 
