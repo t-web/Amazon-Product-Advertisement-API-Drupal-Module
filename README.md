@@ -27,12 +27,11 @@ As is stands the Amazon API Module Suite is suitable for creating basic "affilia
 
 ####Media Rich Content 
 
-Essentially "Components! We need more components!" is the new rally echoing the Great Halls of Drupazon
-
-
-with a minimal developer API and some support for  Views
+The future of complex, yet scalable content and commerce is ripe for innovation. for  "Components! We need more components!" is the new rally echoing the Great Halls of Drupazon
 
 What's that does mean for you?
+
+Let's be real you practically need 5+ years experience and cousins with a core contributor to get a
 
 Do you like designing cutting edge web components? What about developing creative
 
