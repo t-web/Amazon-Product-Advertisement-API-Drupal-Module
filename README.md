@@ -17,7 +17,7 @@ This includes, but is not limited to regular **design/development sprints**, **e
 
 ####Design & Development Sprints
 
-Drupal is leading Open Source Content Management Framework and Amazon is the world's largest online retailer. Plain and simple, as a community, we should have better high-quality content and on-demand commerce solutions.
+Drupal is leading Open Source Content Management Framework and Amazon is the world's largest online retailer. Plain and simple, as the People of the Internet, we should have better high-quality content and on-demand commerce solutions.
 
 As is stands the Amazon API Module Suite is suitable for creating basic "affiliate-esque" type websites. Add the Amazon Store Module and the foundation for on-demand commerce has been set.
 
@@ -27,17 +27,15 @@ As is stands the Amazon API Module Suite is suitable for creating basic "affilia
 
 ####Open Source & The Agile Doacracy. 
 
-The future of complex, yet scalable high-quality content and on-demand commerce is open for innovation. I'm excited! Are you? 
+The future of complex, yet scalable high-quality content and on-demand commerce is open for innovation.
 
-We need innovative designers, maticulous developers, savvy writers, hungry entreupeuners, persistant project managers and everyone in between.
+We need innovative designers, meticulous developers, creative writers, hungry entrepreneurs, persistent project managers, savvy marketers and everyone in between.
 
-It starts with the "Components! Modular and highly-responsive components."
+It starts with the "Components! Community friendly, modular and highly-responsive components."
 
 ####The Foundation - Community Friendly Components
-A single person can build a boat, but only a community can build a bridge.Innovation happens when committed people with diverse backgrounds share and integrate meaningful contributions.
+A single person can build a boat, but only a community can build a bridge. Innovation happens when committed people with diverse backgrounds share and integrate meaningful contributions.
 
-Which is why 
+The Amazon API Module Suite will will encourage and facilitate open collaboration amongst a variety of stakeholders, users, builders, product owners.
 
-To jump-start the Amazon Product Advertisement API 
-
-To strive for lofty 
+A lofty goal and I'll be the first to admit I definitely don't have all the pieces to the puzzle, but I have hunch it starts with consistent iterations, open dialogue and some good'ol can do attitude. 
