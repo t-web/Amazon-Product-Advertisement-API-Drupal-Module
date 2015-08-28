@@ -25,9 +25,9 @@ As is stands the Amazon API Module Suite is suitable for creating basic "affilia
 
 *“We can't just show value, we have to create it”* **The Internet changed marketing... and it's a good thing.**
 
+####Media Rich Content 
 
-
-"Components! We need more components!" is the new rally echoing the Great Halls of Drupazon
+Essentially "Components! We need more components!" is the new rally echoing the Great Halls of Drupazon
 
 
 with a minimal developer API and some support for  Views
